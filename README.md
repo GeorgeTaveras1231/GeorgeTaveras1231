@@ -3,5 +3,5 @@
 ## Notable contributions
 
 (WIP)
-- [[sass-loader] extend conditionNames](https://github.com/webpack-contrib/sass-loader/pull/1092)
-- [[elixir] Enum.withIndex/2 and Stream.withIndex/2](https://github.com/elixir-lang/elixir/pull/4040)
+- [( **sass-loader** ) extend conditionNames](https://github.com/webpack-contrib/sass-loader/pull/1092)
+- [( **elixir** ) Enum.withIndex/2 and Stream.withIndex/2](https://github.com/elixir-lang/elixir/pull/4040)
