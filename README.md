@@ -8,5 +8,4 @@
 - [ ( **react-docgen** ) Allow react-docgen to handle class components with private properties](https://github.com/reactjs/react-docgen/pull/440)
 - [ ( **DefinitelyTyped** ) Add missing types for node's require and require.cache](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/40456)
 - [ ( **inline-critical** ) Support minifying extracted css](https://github.com/bezoerb/inline-critical/pull/237)
-- [ ( **chalk** ) Export template function](https://github.com/chalk/chalk-template/pull/8)
 - [ ( **npm-sass** ) Support importing relative paths of scoped packages](https://github.com/lennym/npm-sass/pull/12/)
